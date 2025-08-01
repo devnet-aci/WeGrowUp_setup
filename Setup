@@ -4,7 +4,7 @@
 # Serviços incluídos: Portainer + Traefik, N8N, Evolution API, Redis, PostgreSQL, RabbitMQ
 # Autor: Seu Nome
 # GitHub: https://github.com/seuusuario/setup-enxuto
-# Instalação: bash <(curl -sSL setup.seudominio.com.br)
+# Instalação: bash <(curl -sSL https://github.com/devnet-aci/WeGrowUp_setup)
 
 clear
 
